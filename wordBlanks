@@ -1,0 +1,12 @@
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+//new line
+var wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + ".";
+
+//another Example
+function wordBlanks("num, "num1", "num2", "num3") {
+var result = "My " + "num2" + "is " + "num3" + ". "; + "Yesterday he " + "num" + "very " + "num1" + "to get his food. ";
+return result;
+}
